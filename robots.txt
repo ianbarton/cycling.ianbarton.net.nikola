@@ -1,0 +1,4 @@
+Sitemap: http://cycling.ianbarton.net/sitemapindex.xml
+
+User-Agent: *
+Host: cycling.ianbarton.net
