@@ -9,12 +9,10 @@
 .. type: text
 #+END_COMMENT
 
-
-#+begin_html
-<iframe src="//rwgps-embeds.com/trips/11614917/embed?privacy_code=hRrxHOGaaeUJUAVa" height="500px" width="100%" frameborder="0"></iframe>
-#+end_html
-
 To view the full route and download a gpx file click [[https://rwgps-embeds.com/routes/17716473][View full route]].
+
+#+HTML: <iframe src="https://rwgps-embeds.com/embeds?type=trip&id=11614917&metricUnits=true&sampleGraph=true&privacyCode=hRrxHOGaaeUJUAVa" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
 
 The ride is a series of two loops starting at Rhayader visiting
 Llanidloes and Caersws. You can just ride the first part of the loop
