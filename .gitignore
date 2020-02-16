@@ -2,3 +2,4 @@ cache
 .doit.db
 __pycache__
 output
+/.doit.sync-conflict-20181003-105816-BXS4LOP.db
