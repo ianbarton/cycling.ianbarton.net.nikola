@@ -1,0 +1,32 @@
+<!--
+.. title: 2016 11 20 Holyhead To Chester
+.. slug: 2016-11-20-Holyhead-to-Chester
+.. date: 2017-10-09 10:37:33 UTC
+.. tags: route
+.. type: text
+.. status: draft
+-->
+
+It's possible to ride this route in a day. I have described it in two
+sections: Holyhead to Llandudno and Llandudno to Chester. Most people
+start the ride in Holyhead, as you will usually have the prevailing
+wind behind you. You can leave your car at either Holyhead or Chester
+and then catch the train back to your starting point. If part of the
+way along you decide that doing the whole ride in one day is too much,
+there are several stations where you can catch the train back to the
+start.
+
+If you start at Holyhead there is a free car park at Penrhos Beach.
+
+#+BEGIN_HTML
+<!-- TEASER_END -->
+#+END_HTML
+
+** Holyhead to Llandudno.
+ #+begin_html
+ <iframe src="//rwgps-embeds.com/routes/17767008/embed" height="500px" width="100%" frameborder="0"></iframe>
+ #+end_html
+
+My route mostly follows Sustrans Route 5, with some minor variations.
+
+** Llandudno to Chester.
